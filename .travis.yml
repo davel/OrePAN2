@@ -24,6 +24,7 @@ notifications:
     recipients:
       - olaf@wundersolutions.com
 perl:
+  - '5.8'
   - '5.10.0'
   - '5.10'
   - '5.12'
